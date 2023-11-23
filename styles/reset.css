@@ -43,7 +43,7 @@ a {
     color: #000;
 }
 
-.backButton {
+.backButton:hover {
     cursor: pointer;
     text-decoration: underline;
 }
