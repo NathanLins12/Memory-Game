@@ -43,7 +43,6 @@ aside button {
 
 .card:hover {
   cursor: pointer;
-  transform: rotateY(180deg);
 }
 
 .flipCard {
