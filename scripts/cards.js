@@ -76,7 +76,7 @@ function checkMatchCards() {
 
 function checkGameWin() {
   const disabledCards = document.querySelectorAll(".disableCard");
-  if (disabledCards.length === 2) {
+  if (disabledCards.length === 24) {
     clearInterval(finishTimerInterval);
 
       gamesFinished = true;
